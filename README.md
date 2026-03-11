@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 3-11-2026
 
 ## AIM:
 
@@ -20,11 +20,12 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
-###   1. Draw a horizontal line AD of length 120 mm. 
-###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
-###   3. With B as centre, BC = AD = 120mm draw an arc 
-###   4. With D as centre, CD = 60 mm draw another arc 
-###   5. Join BC and DC 
+###   1. Draw a horizontal line AD of length 120 mm.
+###   2. At point A, construct a line AB = 30 mm making an angle of 60° with AD.
+###   3. With B as centre and radius = 120 mm (equal to AD), draw an arc.
+###   4.With D as centre and radius = 60 mm, draw another arc to intersect the first arc at point C.
+###   5.Join BC and DC.
+###   6.The figure ABCD is the required construction.
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/a99fb530-e8df-49bf-9b2c-d537ff992534)
 
@@ -53,10 +54,12 @@
 
 
 ## Output:
+<img width="1864" height="899" alt="Screenshot 2026-03-11 084038" src="https://github.com/user-attachments/assets/4ecec5a4-9c16-4fb4-8f27-312ec6d9ccea" />
 
 
-### Name:
-### Register Number: 
+
+### Name:K.KARANKUMAR
+### Register Number: 212225040171
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
